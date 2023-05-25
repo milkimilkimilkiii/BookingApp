@@ -1,0 +1,83 @@
+[
+  {
+    "Images": [
+      "\\\\Mac\\Home\\Desktop\\курсовая\\Booking01\\Booking01\\bin\\Debug\\HousesImages\\Снимок экрана 2023-04-06 в 13.04.38.png"
+    ],
+    "Id": 1,
+    "NumOfFloors": 1,
+    "Address": null,
+    "IsFree": false,
+    "NumOfBedrooms": 1,
+    "NumOfRooms": 1,
+    "HousesType": 2,
+    "Description": "описjljljljlkjljljjljlkjlkjljljljljkj",
+    "Price": 999.0,
+    "Country": "країна",
+    "OwnerId": 2
+  },
+  {
+    "Images": [
+      "\\\\Mac\\Home\\Desktop\\курсовая\\Booking01\\Booking01\\bin\\Debug\\HousesImages\\fotka3.jpg"
+    ],
+    "Id": 2,
+    "NumOfFloors": 3,
+    "Address": "Мухоморська 14",
+    "IsFree": false,
+    "NumOfBedrooms": 3,
+    "NumOfRooms": 6,
+    "HousesType": 2,
+    "Description": "Гарна хата на околиці міста, сусідів немає. Хата для відпочинку.",
+    "Price": 17000.0,
+    "Country": "Україна",
+    "OwnerId": 1
+  },
+  {
+    "Images": [
+      "\\\\Mac\\Home\\Desktop\\курсовая\\Booking01\\Booking01\\bin\\Debug\\HousesImages\\Снимок экрана 2023-05-11 в 21.08.16.png"
+    ],
+    "Id": 5,
+    "Floor": 9,
+    "NumOfFloors": 0,
+    "Address": "77777777777777777",
+    "IsFree": true,
+    "NumOfBedrooms": 1,
+    "NumOfRooms": 1,
+    "HousesType": 1,
+    "Description": "7777777777777777777777777777777777777777777",
+    "Price": 777777.0,
+    "Country": "777777",
+    "OwnerId": 1
+  },
+  {
+    "Images": [
+      "\\\\Mac\\Home\\Desktop\\курсовая\\Booking01\\Booking01\\bin\\Debug\\HousesImages\\vid1.jpg"
+    ],
+    "Id": 6,
+    "NumOfFloors": 1,
+    "Address": "Вулиця Альгамбра 10, Барселона, Іспанія",
+    "IsFree": true,
+    "NumOfBedrooms": 2,
+    "NumOfRooms": 5,
+    "HousesType": 2,
+    "Description": "Ласкаво просимо до нашої затишної квартири в самому серці Барселони! Наша квартира знаходиться на вулиці Альгамбра, всього за кілька хвилин ходьби від відомих пам'яток та захопливої атмосфери міста.",
+    "Price": 90000.0,
+    "Country": "Іспанія",
+    "OwnerId": 1
+  },
+  {
+    "Images": [
+      "\\\\Mac\\Home\\Desktop\\курсовая\\Booking01\\Booking01\\bin\\Debug\\HousesImages\\Фахверк.jpg.png"
+    ],
+    "Id": 7,
+    "NumOfFloors": 1,
+    "Address": "вулиця Шевченка 25, Київ, Україна",
+    "IsFree": true,
+    "NumOfBedrooms": 1,
+    "NumOfRooms": 3,
+    "HousesType": 2,
+    "Description": "Ласкаво просимо до нашої затишної квартири в самому центрі Києва! Розташована на вулиці Шевченка, наша квартира надає зручний доступ до визначних пам'яток міста та жвавого міського життя.",
+    "Price": 17000.0,
+    "Country": "Україна",
+    "OwnerId": 2
+  }
+]

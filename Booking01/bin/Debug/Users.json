@@ -1,0 +1,29 @@
+[
+  {
+    "Id": 2,
+    "FirstName": "Листопад",
+    "Email": "admin@gmail.com",
+    "Password": "wqertyuio",
+    "LastName": "Іван",
+    "BirthDay": "1990-09-09T00:00:00",
+    "PhoneNumber": "0953422478",
+    "Renting": [],
+    "LookAt": null,
+    "IsAdmin": false
+  },
+  {
+    "Id": 1,
+    "FirstName": "Dmytro",
+    "Email": "qwerty@gmail.com",
+    "Password": "1234567890",
+    "LastName": "Lavrukhin",
+    "BirthDay": "1990-09-09T00:00:00",
+    "PhoneNumber": "0954232060",
+    "Renting": [
+      2,
+      1
+    ],
+    "LookAt": null,
+    "IsAdmin": true
+  }
+]
